@@ -9,6 +9,12 @@ Repositório para o Live Coding do dia 21/10/2021
 
 ## Passos para o desenvolvimento
 
+## No S3 
+
+- Acessar o console do Amazon S3
+- Create bucket -> Bucket name [seu_nome_do_bucket]
+- Create bucket
+
 ## No AWS Lambda
 
 - Acessar o Console do AWS Lambda
